@@ -3,8 +3,6 @@
 - 🔭 I’m currently working at [XOY Capital](https://www.xoycapital.com/)!
 - 🧠 I’m currently learning Full-Stack Development
 - 🎭 I love Parkour and Theater
-- 🔥 Open-Source 
-
 <hr/>
 
 ### Contact 🤝💬
