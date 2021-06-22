@@ -1,6 +1,6 @@
 # USHIERU KOKORAN
 
-- 🔭 I’m currently working at [XOY Capital](https://www.xoycapital.com/)!
+- 🔭 I’m currently working at [PagaClick!](https://www.pagaclick.com.mx/)!
 - 🧠 I’m currently learning Full-Stack Development
 - 🎭 I love Parkour and Theater
 <hr/>
