@@ -1,7 +1,7 @@
 # USHIERU KOKORAN
 
 - 🔭 I’m currently working at [PagaClick!](https://www.pagaclick.com.mx/)!
-- 🧠 I’m currently learning Full-Stack Development
+- 🧠 I’m currently learning Clojure
 - 🎭 I love Parkour and Theater
 <hr/>
 
