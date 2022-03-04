@@ -1,6 +1,6 @@
 # USHIERU KOKORAN
 
-- 🔭 I’m currently working at [PagaClick!](https://www.pagaclick.mx/)!
+- 🔭 I’m currently working at [PagaClick!](https://www.pagaclick.mx/)
 - 🧠 I’m currently learning ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=Elixir&logoColor=white)  &  ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=Clojure&logoColor=white)
 - 🎭 I love Parkour and Theater
 <hr/>
