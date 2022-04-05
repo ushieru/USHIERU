@@ -5,7 +5,7 @@
 <hr/>
 
 ### Contact 🤝💬
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ushieru)](https://t.me/ushieru) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:uzielcocolan@gmail.com)](mailto:uzielcocolan@gmail.com) [![GitLab](https://img.shields.io/badge/-Gitlab-orange?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ushieru)](https://gitlab.com/ushieru) [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ushieru)](https://t.me/ushieru) [![Gmail](https://img.shields.io/badge/-Gitlab-orange?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/ushieru)](https://gitlab.com/ushieru) [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
 
 <hr/>
 
