@@ -1,6 +1,6 @@
 # USHIERU KOKORAN
 - 🔭 I’m currently working at [Serendipia](https://github.com/ushieru/serendipia)
-- 🧠 I’m currently learning ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=Elixir&logoColor=white)  &  ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=Clojure&logoColor=white)
+- 🧠 I’m currently learning ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
 - 🎭 I love Parkour and Theater
 <hr/>
 
