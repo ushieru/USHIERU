@@ -1,11 +1,11 @@
 # USHIERU KOKORAN
 - 🔭 I’m currently working at [Serendipia](https://github.com/ushieru/serendipia)
 - 🧠 I’m currently learning ![GO](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
-- 🎭 I love Parkour and Theater
+- 📚 I sometimes write [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
 <hr/>
 
 ### Contact 🤝💬
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ushieru)](https://t.me/ushieru) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:uzielcocolan@gmail.com)](mailto:uzielcocolan@gmail.com) [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ushieru)](https://t.me/ushieru) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:uzielcocolan@gmail.com)](mailto:uzielcocolan@gmail.com)
 
 <hr/>
 
