@@ -1,5 +1,5 @@
 # USHIERU KOKORAN
-- 🔭 I’m currently working at [āxōlōtl](https://github.com/ushieru/axolotl) SQLite Client
+- 🔭 I’m currently working at [āxōlōtl](https://github.com/ushieru/axolotl) a tiny Podman client
 - 🧠 I’m currently learning ![GO](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 - 📚 I sometimes write [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
 <hr/>
