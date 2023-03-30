@@ -1,4 +1,4 @@
-<h1><img align="center" height="45" src="https://www.ushieru.com/favicon.svg"> I'm Ushieru</h1>
+<h1><a href="https://ushieru.com"><img align="center" height="45" src="https://www.ushieru.com/favicon.svg"></a> I'm Ushieru</h1>
 
 - 🔭 I’m currently working at [āxōlōtl](https://github.com/ushieru/axolotl) a tiny Podman client
 - 🧠 I’m currently learning ![GO](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
