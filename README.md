@@ -1,6 +1,6 @@
 <h1><a href="https://ushieru.com"><img align="center" height="45" src="https://www.ushieru.com/favicon.svg"></a> I'm Ushieru</h1>
 
-- 🔭 I’m currently working at [āxōlōtl](https://github.com/ushieru/axolotl) a tiny Podman client
+- 🔭 I’m currently working on having a good time.
 - 🧠 I’m currently learning ![GO](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 - 📚 I sometimes write [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
 <hr/>
