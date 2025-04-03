@@ -1,8 +1,7 @@
 <h1><a href="https://ushieru.com"><img align="center" height="45" src="https://www.ushieru.com/favicon.svg"></a> I'm Ushieru</h1>
 
-- 🔭 I’m currently working on [Total POS](https://github.com/ushieru/total-pos).
-- 🧠 I’m currently learning ![RabbitMQ](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-- 📚 I sometimes write [![DEV](https://img.shields.io/badge/-Dev-black?style=flat&logo=dev.to&logoColor=white&link=https://dev.to/ushieru)](https://dev.to/ushieru)
+- 📚 Organizer at [GDG Guadalajara](https://gdg.community.dev/gdg-guadalajara/)
+- 🎓 Mentor and academic ambassador.
 <hr/>
 
 ### Languages and Tools 🔡🛠️
